@@ -55,9 +55,9 @@ Original Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dict
 
 ## Script for Project
 [Extract Python File](mage-files/extract.py)
-[[Transform Extract Python File](mage-files/extract.py)](mage-files/transform.py)
-[[Load Python File](mage-files/extract.py)](mage-files/load.py)
 
-# ETL Pipeline Diagram
-![ETL Image](etl_diagram.png)
+[Transform Extract Python File](mage-files/transform.py)
+
+[Load Python File](mage-files/load.py)
+
 
