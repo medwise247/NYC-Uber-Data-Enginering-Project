@@ -1,4 +1,4 @@
-# Uber Data Analytics | Modern Data Engineering GCP Project Using Mage AI
+# NYC Uber Data Analytics | Modern Data Engineering GCP Project Using Mage AI
 
 ## Introduction
 This project delves into Uber data analytics by leveraging advanced data engineering techniques on the Google Cloud Platform (GCP). We will use a range of powerful tools, including Mage.ai to build an efficient ETL pipeline, BigQuery for robust data warehousing, Looker Studio for insightful data visualization, and Cloud Storage for seamless data management throughout the entire process. This comprehensive strategy will allow us to extract valuable insights from Uber's extensive datasets and improve decision-making capabilities.
